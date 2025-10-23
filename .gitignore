@@ -1,0 +1,33 @@
+# --- Virtual environments ---
+env_oil_dashboard/
+venv/
+.env/
+
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- IDE / Editor folders ---
+.vscode/
+
+# --- Data folders (raw or processed) ---
+data/
+db/
+
+# --- Logs, temp files, images ---
+*.log
+*.tmp
+*.png
+
+# --- Certificates, credentials, secrets ---
+certifications/
+docs/api/
+.streamlit/secrets.toml
+
+# --- System files ---
+.DS_Store
+Thumbs.db

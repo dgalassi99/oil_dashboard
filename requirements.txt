@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+pandas
+plotly
+yfinance
+requests
+numpy
+scikit-learn
+matplotlib
+seaborn
+beautifulsoup4
+lxml
+flask
+sqlalchemy
+sqlite3
+pytest
