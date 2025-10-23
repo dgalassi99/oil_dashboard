@@ -1,7 +1,7 @@
 # --- Virtual environments ---
 env_oil_dashboard/
 venv/
-.env/
+.env
 
 # --- Python cache and compiled files ---
 __pycache__/
