@@ -10,72 +10,122 @@ from datetime import datetime
 load_dotenv()
 EIA_API_KEY = os.getenv("EIA_API_KEY")
 
-DATA_PATH = "data/stocks.csv"
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
 
-# Top countries
-COUNTRIES = [
-    "AGO","ARE","BRA","CAN","CHN","DEU","FRA","GBR","IDN","IND",
-    "IRN","IRQ","JPN","KAZ","KOR","KWT","MEX","NGA","NOR","RUS","SAU","USA","VEN","ITA"
+# PARAMETERS
+COUNTRY_IDS = [
+    # Individual countries (top producers / consumers)
+    "AGO",  # Angola
+    "ARE",  # UAE
+    "BRA",  # Brazil
+    "CAN",  # Canada
+    "CHN",  # China
+    "DEU",  # Germany
+    "FRA",  # France
+    "GBR",  # UK
+    "IDN",  # Indonesia
+    "IND",  # India
+    "IRN",  # Iran
+    "IRQ",  # Iraq
+    'ITA',  # Italy
+    "JPN",  # Japan
+    "KAZ",  # Kazakhstan
+    "KOR",  # South Korea
+    "KWT",  # Kuwait
+    "MEX",  # Mexico
+    "NGA",  # Nigeria
+    "NOR",  # Norway
+    "RUS",  # Russia
+    "SAU",  # Saudi Arabia
+    "USA",  # United States
+    "VEN",  # Venezuela
+
+    # Additional countries
+    "GAB",  # Gabon
+    "COG",  # Congo
+    "LBY",  # Libya
+    "DZA",  # Algeria
+    "OMN",  # Oman
+    "AZE",  # Azerbaijan
+    "MYS",  # Malaysia
+    "BHR",  # Bahrain
+    "SSD",  # South Sudan
+    "SDN",  # Sudan
+    "BRN",  # Brunei
+
+    # Regional OPEC aggregates
+    "OPNO",  # Non-OPEC
+    "OPEC",  # Core Middle East OPEC
+    "OPSA",  # South America OPEC
+    "OPAF"   # African OPEC
 ]
 
-# Products to include
-PRODUCT_IDS = ['5','53','54','57']  # EIA product IDs for oil stocks
+# Activity mapping: name -> activityId
+ACTIVITIES = {
+    "Production": "1",
+    "Consumption": "2",
+    "Stocks": "5"
+}
 
-# Units
-UNITS = ["MBBL"]  # million barrels
+URL = "https://api.eia.gov/v2/international/data/"
+START_DATE = "2020-01"
+LENGTH = 5000  # max rows per call
 
-def fetch_stocks():
-    """Fetch stocks data from EIA, filter locally, save CSV"""
-    url = "https://api.eia.gov/v2/international/data/"
+def fetch_activity(activity_name: str, activity_id: str) -> pd.DataFrame:
+    """Fetch data for a single activity across all countries with pagination."""
     all_data = []
-    offset = 0
-    length = 5000
 
-    while True:
-        params = {
-            "api_key": EIA_API_KEY,
-            "frequency": "monthly",
-            "data[0]": "value",
-            "sort[0][column]": "period",
-            "sort[0][direction]": "desc",
-            "offset": offset,
-            "length": length,
-        }
+    for country_id in COUNTRY_IDS:
+        offset = 0
+        while True:
+            params = {
+                "api_key": EIA_API_KEY,
+                "frequency": "monthly",
+                "data[0]": "value",
+                "sort[0][column]": "period",
+                "sort[0][direction]": "desc",
+                "offset": offset,
+                "length": LENGTH,
+                "facets[countryRegionId][0]": country_id,
+                "facets[activityId][0]": activity_id,
+                "start": START_DATE,
+                "end": None
+            }
 
-        # Facets
-        for i, cid in enumerate(COUNTRIES):
-            params[f"facets[countryRegionId][{i}]"] = cid
-        for i, pid in enumerate(PRODUCT_IDS):
-            params[f"facets[productId][{i}]"] = pid
-        for i, unit in enumerate(UNITS):
-            params[f"facets[unit][{i}]"] = unit
+            response = requests.get(URL, params=params)
+            response.raise_for_status()
+            data = response.json()["response"]["data"]
 
-        # Request
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        data = response.json()["response"]["data"]
+            if not data:
+                break
 
-        if not data:
-            break
+            all_data.extend(data)
+            if len(data) < LENGTH:
+                break
+            offset += LENGTH
 
-        all_data.extend(data)
-        offset += length
-
-    # Create DataFrame
+    # Convert to DataFrame
     df = pd.DataFrame(all_data)
     if not df.empty:
-        # Convert types
         df["value"] = pd.to_numeric(df["value"], errors="coerce")
+        #df["value"] = df["value"].fillna(0)
         df["period"] = pd.to_datetime(df["period"], errors="coerce")
-        df.drop(columns=['productId', 'activityId', 'activityName','countryRegionTypeId',
-       'countryRegionTypeName', 'dataFlagId', 'dataFlagDescription','unitName'], inplace=True)
-        
+        # Drop unnecessary columns
+        drop_cols = [
+            "productId", "countryRegionTypeId",
+            "countryRegionTypeName", "dataFlagId", "dataFlagDescription", "unitName"
+        ]
+        df.drop(columns=[c for c in drop_cols if c in df.columns], inplace=True)
 
-    # Save CSV
-    os.makedirs("data", exist_ok=True)
-    df.to_csv(DATA_PATH, index=False)
-    print(f"Stocks data saved to {DATA_PATH}, total rows: {len(df)}")
+    # Save CSV using readable activity name
+    csv_path = os.path.join(DATA_DIR, f"{activity_name.lower()}.csv")
+    df.to_csv(csv_path, index=False)
+    print(f"{activity_name} data saved to {csv_path}, total rows: {len(df)}")
+
     return df
 
 if __name__ == "__main__":
-    fetch_stocks()
+    for name, aid in ACTIVITIES.items():
+        fetch_activity(name, aid)
+
