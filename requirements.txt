@@ -12,5 +12,4 @@ beautifulsoup4
 lxml
 flask
 sqlalchemy
-sqlite3
 pytest
