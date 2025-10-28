@@ -31,3 +31,7 @@ docs/api/
 # --- System files ---
 .DS_Store
 Thumbs.db
+
+# --- logs and test files ---
+logs/
+tests.ipynb
