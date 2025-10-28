@@ -1,0 +1,671 @@
+period,productName,activityId,activityName,countryRegionId,countryRegionName,value,unit
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,194.053,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,187.54,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,184.636,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,192.766,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.058,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,185.127,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.771,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,194.606,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,190.932,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,189.406,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,189.547,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,192.035,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,190.997,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,201.476,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,197.971,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,205.984,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,198.863,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,193.74,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,198.468,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,197.101,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,195.493,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.543,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,185.44,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.171,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,183.314,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,179.957,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,183.226,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,190.036,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.283,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,186.028,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.454,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,199.832,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,195.577,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,191.004,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.105,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,192.15,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,189.087,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,186.101,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,187.126,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,189.188,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,185.737,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,188.231,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,191.26,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,201.746,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,208.818,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,208.802,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,204.296,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,207.134,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,209.131,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,201.676,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,198.474,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,199.242,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,197.893,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,195.989,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,203.882,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,201.15,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,201.323,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,196.705,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,198.321,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,199.606,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,203.071,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,202.991,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,202.359,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,205.897,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,199.084,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,192.988,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",CAN,Canada,197.816,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,257.079,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,254.689,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,259.902,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,256.962,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,257.427,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,262.555,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.08,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.171,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,260.414,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,261.382,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,263.83,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,267.953,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.968,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,267.032,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,267.041,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.954,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.934,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.285,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.866,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,262.902,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,256.271,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,258.145,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,262.362,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.279,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.049,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.691,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,268.731,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.965,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.322,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,275.364,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,281.969,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,271.687,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.126,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,270.676,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,265.596,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,262.046,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,264.031,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,267.652,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,271.331,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,270.778,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.112,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.046,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,270.554,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,268.877,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,270.772,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,269.427,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,270.122,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,276.555,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.705,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,275.709,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,279.201,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,277.148,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.021,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,280.203,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,285.612,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.244,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,279.663,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,274.982,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,276.615,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,283.111,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.953,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,281.253,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,281.749,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,276.715,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.814,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,279.755,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",DEU,Germany,278.212,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.569,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,150.82,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,150.917,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,145.29,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.938,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.804,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,152.635,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,153.888,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,153.256,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,153.266,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,154.17,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.36,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,155.14,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,155.977,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,153.738,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.894,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,154.483,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.807,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.713,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,149.335,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.993,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,150.865,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,154.733,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,156.459,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,155.523,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.808,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,154.584,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.801,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,138.673,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,156.634,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,157.416,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.275,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.958,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,145.868,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,142.253,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,149.016,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,145.843,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,144.585,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.165,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,146.445,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,148.781,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,152.885,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,154.178,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,151.573,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,153.382,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,152.942,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,157.324,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,160.451,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,162.113,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,163.027,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,163.853,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,162.606,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,162.121,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,164.961,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,162.117,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,158.446,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,168.075,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,163.837,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,167.652,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,168.268,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,166.32,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,165.525,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,165.132,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,164.75,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,162.546,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,161.054,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",FRA,France,157.509,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,65.884,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.001,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.772,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.061,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.031,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.038,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.027,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.397,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.876,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.505,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.344,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.423,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.252,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,73.156,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.549,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.524,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.161,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.305,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.663,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.195,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.672,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.588,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.185,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.28,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.957,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,66.89,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.154,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,74.937,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.552,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.683,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.749,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,65.887,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,65.393,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,64.127,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.072,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,68.256,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.043,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,66.251,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,67.234,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.462,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,67.065,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,69.684,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,66.655,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.306,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.526,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.86,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,70.046,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,71.101,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,75.046,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,73.874,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,77.806,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,72.366,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,74.67,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,76.205,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,84.485,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,85.463,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,83.744,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,86.845,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,83.517,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,86.052,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,90.233,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,89.897,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,86.348,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,89.403,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,83.53,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,82.726,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",GBR,United Kingdom,84.519,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,125.783,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,121.309,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,124.626,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,125.637,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,128.05,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,130.384,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,120.302,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.404,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,118.953,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,123.828,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,116.547,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,120.542,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,124.935,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,126.077,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,126.691,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,128.217,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.848,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,124.591,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,123.498,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,120.486,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.608,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.992,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,123.765,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.353,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.156,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.718,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,123.411,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.346,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.946,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.726,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,125.401,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,120.011,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,121.391,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.345,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,123.319,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,115.936,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,115.782,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.284,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.991,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.437,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,116.282,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,113.558,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,116.561,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,112.497,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,119.49,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.676,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.957,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,117.569,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,115.162,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,128.857,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,131.907,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,126.975,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,126.786,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,122.377,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,130.767,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,135.834,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,136.418,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,137.862,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,139.871,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,141.721,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,142.25,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,142.253,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,140.092,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,145.609,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,145.159,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,132.181,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",ITA,Italy,133.253,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,503.773,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.949,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,504.858,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,496.106,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,496.299,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,486.126,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,495.825,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,497.779,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,497.708,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,501.225,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,510.788,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,504.334,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.646,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,497.425,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,496.52,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,492.323,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,488.996,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,497.905,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,512.619,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,509.392,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,517.487,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,521.735,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,520.848,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,518.535,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,516.849,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,510.738,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.596,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,508.323,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,492.537,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,494.399,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,505.364,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,513.912,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,524.759,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,519.374,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,522.373,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,513.352,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.359,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.819,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,514.351,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,513.066,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,500.541,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,502.567,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,512.202,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,519.387,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,530.831,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,528.516,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,525.12,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,528.221,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,516.998,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,528.604,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,533.805,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,517.44,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,506.464,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,526.029,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,528.589,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,532.383,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,542.349,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,552.198,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,559.507,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,564.742,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,555.719,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,553.838,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,561.46,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,554.604,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,534.88,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,530.963,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",JPN,Japan,541.035,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,190.337,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,195.739,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,193.984,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,183.132,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,185.014,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,185.619,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,187.056,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,173.48,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,188.224,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,182.656,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,181.958,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,189.899,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,180.578,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,181.92,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,187.631,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,189.952,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,182.121,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,193.919,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,185.67,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,180.917,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,181.819,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,178.608,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,182.543,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,187.311,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,187.417,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,190.798,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,196.807,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,198.025,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,195.95,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,186.702,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,179.262,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,173.8,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,184.487,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,177.806,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,174.484,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,173.089,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,177.542,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,165.902,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,166.076,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,178.872,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,174.628,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,173.416,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,174.491,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,168.817,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,177.006,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,184.886,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,189.276,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,192.409,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,190.107,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,194.884,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,193.904,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,200.835,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,201.547,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,215.869,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,211.835,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,213.257,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,216.088,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,225.213,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,219.422,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,221.779,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,224.156,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,213.423,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,208.977,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,194.186,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,196.526,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,195.049,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",KOR,South Korea,192.647,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",MEX,Mexico,,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",NOR,Norway,,MBBL
+2025-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1668.008499,MBBL
+2025-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1647.588413,MBBL
+2025-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1644.384135,MBBL
+2025-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1614.429587,MBBL
+2025-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1601.378403,MBBL
+2025-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1596.633007,MBBL
+2025-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1605.857001,MBBL
+2024-12-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1629.709107,MBBL
+2024-11-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1638.660568,MBBL
+2024-10-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1636.051021,MBBL
+2024-09-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1650.285726,MBBL
+2024-08-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1656.290636,MBBL
+2024-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1662.493447,MBBL
+2024-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1652.413858,MBBL
+2024-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1646.621664,MBBL
+2024-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1626.105542,MBBL
+2024-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1595.451863,MBBL
+2024-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1583.280429,MBBL
+2024-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1590.154741,MBBL
+2023-12-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1606.102466,MBBL
+2023-11-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1615.895361,MBBL
+2023-10-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1614.907242,MBBL
+2023-09-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1633.70071,MBBL
+2023-08-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1608.887826,MBBL
+2023-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1617.385572,MBBL
+2023-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1610.234134,MBBL
+2023-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1614.409515,MBBL
+2023-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1609.305484,MBBL
+2023-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1601.148547,MBBL
+2023-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1638.28539,MBBL
+2023-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1625.372866,MBBL
+2022-12-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1594.622063,MBBL
+2022-11-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1615.195977,MBBL
+2022-10-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1629.082746,MBBL
+2022-09-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1631.952108,MBBL
+2022-08-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1657.728579,MBBL
+2022-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1683.324088,MBBL
+2022-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1673.733602,MBBL
+2022-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1695.265405,MBBL
+2022-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1701.696189,MBBL
+2022-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1720.299098,MBBL
+2022-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1744.486227,MBBL
+2022-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1778.419849,MBBL
+2021-12-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1792.29443,MBBL
+2021-11-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1835.21488,MBBL
+2021-10-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1863.612919,MBBL
+2021-09-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1868.707678,MBBL
+2021-08-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1871.505722,MBBL
+2021-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1899.418736,MBBL
+2021-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1902.667983,MBBL
+2021-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1931.452405,MBBL
+2021-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1932.239995,MBBL
+2021-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1948.721211,MBBL
+2021-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1940.840922,MBBL
+2021-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1975.188339,MBBL
+2020-12-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1981.433712,MBBL
+2020-11-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2026.809012,MBBL
+2020-10-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2024.885255,MBBL
+2020-09-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2065.36725,MBBL
+2020-08-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2085.108019,MBBL
+2020-07-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2110.127995,MBBL
+2020-06-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2113.726137,MBBL
+2020-05-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2080.56447,MBBL
+2020-04-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,2041.425341,MBBL
+2020-03-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1961.689009,MBBL
+2020-02-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1917.679679,MBBL
+2020-01-01,Petroleum and other liquids,5,"Stocks, OECD",USA,United States,1934.860185,MBBL

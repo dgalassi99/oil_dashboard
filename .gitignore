@@ -15,8 +15,8 @@ __pycache__/
 .vscode/
 
 # --- Data folders (raw or processed) ---
-data/
-db/
+#data/
+#db/
 
 # --- Logs, temp files, images ---
 *.log
