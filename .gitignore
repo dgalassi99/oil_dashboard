@@ -33,5 +33,5 @@ docs/api/
 Thumbs.db
 
 # --- logs and test files ---
-logs/
+logs.md
 tests.ipynb
