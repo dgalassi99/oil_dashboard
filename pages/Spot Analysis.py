@@ -2,25 +2,11 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from utils import apply_time_filter, plot_price_chart, plot_returns_with_vol, sub_metrics, aggregate_prices
+from utils import apply_time_filter, plot_price_chart, plot_returns_with_vol, sub_metrics, aggregate_prices, load_spot_data
 
 # --- DATA --- #
 # load prices data
-prices = pd.read_csv("data/prices.csv")
-prices["period"] = pd.to_datetime(prices["period"], errors="coerce")
-prices["value"] = pd.to_numeric(prices["value"], errors="coerce")
-prices["change"] = round(prices.groupby("product")["value"].pct_change() * 100, 2)
-
-# split products
-brent = prices[prices["product"] == "EPCBRENT"].copy()
-wti = prices[prices["product"] == "EPCWTI"].copy()
-
-# compute spread
-spread = brent.set_index('period')['value'] - wti.set_index('period')['value']
-spread = pd.DataFrame(spread).reset_index()
-spread['value'] = spread['value'].ffill()
-spread.columns = ['period', 'value']
-spread["change"] = round(spread["value"].pct_change() * 100, 2)
+brent, wti, spread, prices = load_spot_data()
 
 # --- GLOBAL USER INPUTS --- #
 
@@ -81,3 +67,12 @@ with col3:
     st.plotly_chart(plot_price_chart(spread, "Spread","Brent-WTI Spread", "Spread ($/BBL)"), use_container_width=True)
     st.markdown("---")
     st.plotly_chart(plot_returns_with_vol(spread, "Spread"), use_container_width=True)
+
+
+st.markdown("---")
+st.markdown(
+    """
+    **Source:** [U.S. Energy Information Administration (EIA) International Data API](https://www.eia.gov/opendata/browser/petroleum/pri/spt)
+    """,
+    unsafe_allow_html=True,
+)

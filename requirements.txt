@@ -13,3 +13,6 @@ lxml
 flask
 sqlalchemy
 pytest
+geopy
+folium
+streamlit-folium

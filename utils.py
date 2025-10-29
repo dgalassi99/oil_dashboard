@@ -20,6 +20,24 @@ accent_color2 = theme.get("accentColor2", "#CD2C58")
 
 # SPOT ANALYSIS HELPER FUNCTIONS
 
+# --- load spot prices data ---
+def load_spot_data():
+    prices = pd.read_csv("data/prices.csv")
+    prices["period"] = pd.to_datetime(prices["period"], errors="coerce")
+    prices["value"] = pd.to_numeric(prices["value"], errors="coerce")
+    prices["change"] = round(prices.groupby("product")["value"].pct_change() * 100, 2)
+
+    brent = prices[prices["product"] == "EPCBRENT"].copy()
+    wti = prices[prices["product"] == "EPCWTI"].copy()
+
+    spread = brent.set_index("period")["value"] - wti.set_index("period")["value"]
+    spread = pd.DataFrame(spread).reset_index()
+    spread["value"] = spread["value"].ffill()
+    spread.columns = ["period", "value"]
+    spread["change"] = round(spread["value"].pct_change() * 100, 2)
+
+    return brent, wti, spread, prices
+
 # --- Time filter ---
 def apply_time_filter(df, time_filter):
     if df.empty:
