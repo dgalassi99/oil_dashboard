@@ -4,8 +4,9 @@ from utils import load_and_clean, load_spot_data
 
 st.set_page_config(page_title="Global Oil Dashboard", layout="wide")
 st.title("Global Oil Dashboard")
-st.markdown("An overview of global oil production, consumption, and stocks.")
 st.markdown("---")
+st.markdown("KPIs: oil production, consumption, and stocks.")
+
 
 # --- Load datasets ---
 prod = load_and_clean("data/production.csv", filter_crude=True)
@@ -46,7 +47,7 @@ with col3:
     st.metric(f"Last Month Stocks ({stocks_country})", f"{last_val:.1f} MBBL", f"{last_chg:+.1f}%")
 
 st.markdown("---")
-
+st.markdown("KPIs: Brent, WTI and their Spread.")
 wti_last = wti.iloc[-1]
 brent_last = brent.iloc[-1]
 spread_last = spread.iloc[-1]
